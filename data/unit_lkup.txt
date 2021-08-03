@@ -1,0 +1,12 @@
+code,desc_short,desc_long,exp
+1,g,gram,0
+2,dg,decigram,1
+3,cg,centigram,2
+4,mg,milligram,3
+5,mcg,microgram,4
+6,ng,nanogram,5
+7,pg,picogram,6
+8,L,liter,
+9,kcal,kilocalories,
+10,kJ,kilojoules,
+11,IU,international units,

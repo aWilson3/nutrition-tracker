@@ -1,0 +1,161 @@
+id,unit_cd_ndb,name_ndb,num_dec,name_nih,unit_cd_nih
+203,1,Protein,2,protein,1
+204,1,Total lipid (fat),2,fat,1
+205,1,"Carbohydrate, by difference",2,carbohydrate,1
+207,1,Ash,2,,9999
+208,9,Energy,0,,9999
+209,1,Starch,2,,9999
+210,1,Sucrose,2,,9999
+211,1,Glucose (dextrose),2,,9999
+212,1,Fructose,2,,9999
+213,1,Lactose,2,,9999
+214,1,Maltose,2,,9999
+221,1,"Alcohol, ethyl",1,,9999
+255,1,Water,2,water,8
+257,1,Adjusted Protein,2,,9999
+262,4,Caffeine,0,,9999
+263,4,Theobromine,0,,9999
+268,10,Energy,0,,9999
+269,1,"Sugars, total",2,,9999
+287,1,Galactose,2,,9999
+291,1,"Fiber, total dietary",1,fiber,1
+301,4,"Calcium, Ca",0,calcium,4
+303,4,"Iron, Fe",2,iron,4
+304,4,"Magnesium, Mg",0,magnesium,4
+305,4,"Phosphorus, P",0,phosphorus,4
+306,4,"Potassium, K",0,potassium,4
+307,4,"Sodium, Na",0,sodium,4
+309,4,"Zinc, Zn",2,zinc,4
+312,4,"Copper, Cu",3,copper,5
+313,5,"Fluoride, F",1,fluoride,4
+315,4,"Manganese, Mn",3,manganese,4
+317,5,"Selenium, Se",1,selenium,5
+318,11,"Vitamin A, IU",0,,9999
+319,5,Retinol,0,,9999
+320,5,"Vitamin A, RAE",0,vitamin a,5
+321,5,"Carotene, beta",0,,9999
+322,5,"Carotene, alpha",0,,9999
+323,4,Vitamin E (alpha-tocopherol),2,vitamin e,4
+324,11,Vitamin D,0,,9999
+325,5,Vitamin D2 (ergocalciferol),1,,9999
+326,5,Vitamin D3 (cholecalciferol),1,,9999
+328,5,Vitamin D (D2 + D3),1,vitamin d,5
+334,5,"Cryptoxanthin, beta",0,,9999
+337,5,Lycopene,0,,9999
+338,5,Lutein + zeaxanthin,0,,9999
+341,4,"Tocopherol, beta",2,,9999
+342,4,"Tocopherol, gamma",2,,9999
+343,4,"Tocopherol, delta",2,,9999
+344,4,"Tocotrienol, alpha",2,,9999
+345,4,"Tocotrienol, beta",2,,9999
+346,4,"Tocotrienol, gamma",2,,9999
+347,4,"Tocotrienol, delta",2,,9999
+401,4,"Vitamin C, total ascorbic acid",1,vitamin c,4
+404,4,Thiamin,3,thiamin,4
+405,4,Riboflavin,3,riboflavin,4
+406,4,Niacin,3,niacin,4
+410,4,Pantothenic acid,3,pantothenic acid,4
+415,4,Vitamin B-6,3,vitamin b-6,4
+417,5,"Folate, total",0,folate,5
+418,5,Vitamin B-12,2,vitamin b-12,5
+421,4,"Choline, total",1,choline,4
+428,5,Menaquinone-4,1,,9999
+429,5,Dihydrophylloquinone,1,,9999
+430,5,Vitamin K (phylloquinone),1,vitamin k,5
+431,5,Folic acid,0,,9999
+432,5,"Folate, food",0,,9999
+435,5,"Folate, DFE",0,,9999
+454,4,Betaine,1,,9999
+501,1,Tryptophan,3,,9999
+502,1,Threonine,3,,9999
+503,1,Isoleucine,3,,9999
+504,1,Leucine,3,,9999
+505,1,Lysine,3,,9999
+506,1,Methionine,3,,9999
+507,1,Cystine,3,,9999
+508,1,Phenylalanine,3,,9999
+509,1,Tyrosine,3,,9999
+510,1,Valine,3,,9999
+511,1,Arginine,3,,9999
+512,1,Histidine,3,,9999
+513,1,Alanine,3,,9999
+514,1,Aspartic acid,3,,9999
+515,1,Glutamic acid,3,,9999
+516,1,Glycine,3,,9999
+517,1,Proline,3,,9999
+518,1,Serine,3,,9999
+521,1,Hydroxyproline,3,,9999
+573,4,"Vitamin E, added",2,,9999
+578,5,"Vitamin B-12, added",2,,9999
+601,4,Cholesterol,0,,9999
+605,1,"Fatty acids, total trans",3,,9999
+606,1,"Fatty acids, total saturated",3,saturated fatty acids total,1
+607,1,4:0,3,,9999
+608,1,6:0,3,,9999
+609,1,8:0,3,,9999
+610,1,10:0,3,,9999
+611,1,12:0,3,,9999
+612,1,14:0,3,,9999
+613,1,16:0,3,,9999
+614,1,18:0,3,,9999
+615,1,20:0,3,,9999
+617,1,18:1 undifferentiated,3,,9999
+618,1,18:2 undifferentiated,3,,9999
+619,1,18:3 undifferentiated,3,,9999
+620,1,20:4 undifferentiated,3,,9999
+621,1,22:6 n-3 (DHA),3,,9999
+624,1,22:0,3,,9999
+625,1,14:1,3,,9999
+626,1,16:1 undifferentiated,3,,9999
+627,1,18:4,3,,9999
+628,1,20:1,3,,9999
+629,1,20:5 n-3 (EPA),3,,9999
+630,1,22:1 undifferentiated,3,,9999
+631,1,22:5 n-3 (DPA),3,,9999
+636,4,Phytosterols,0,,9999
+638,4,Stigmasterol,0,,9999
+639,4,Campesterol,0,,9999
+641,4,Beta-sitosterol,0,,9999
+645,1,"Fatty acids, total monounsaturated",3,monounsaturated fatty acids total,1
+646,1,"Fatty acids, total polyunsaturated",3,polyunsaturated fatty acids total,1
+652,1,15:0,3,,9999
+653,1,17:0,3,,9999
+654,1,24:0,3,,9999
+662,1,16:1 t,3,,9999
+663,1,18:1 t,3,,9999
+664,1,22:1 t,3,,9999
+665,1,18:2 t not further defined,3,,9999
+666,1,18:2 i,3,,9999
+669,1,"18:2 t,t",3,,9999
+670,1,18:2 CLAs,3,,9999
+671,1,24:1 c,3,,9999
+672,1,"20:2 n-6 c,c",3,,9999
+673,1,16:1 c,3,,9999
+674,1,18:1 c,3,,9999
+675,1,"18:2 n-6 c,c",3,,9999
+676,1,22:1 c,3,,9999
+685,1,"18:3 n-6 c,c,c",3,,9999
+687,1,17:1,3,,9999
+689,1,20:3 undifferentiated,3,,9999
+693,1,"Fatty acids, total trans-monoenoic",3,,9999
+695,1,"Fatty acids, total trans-polyenoic",3,,9999
+696,1,13:0,3,,9999
+697,1,15:1,3,,9999
+851,1,"18:3 n-3 c,c,c (ALA)",3,,9999
+852,1,20:3 n-3,3,,9999
+853,1,20:3 n-6,3,,9999
+855,1,20:4 n-6,3,,9999
+856,1,18:3i,3,,9999
+857,1,21:5,3,,9999
+858,1,22:4,3,,9999
+859,1,18:1-11 t (18:1t n-7),3,,9999
+860,,,,linoleic acid,1
+861,,,,alpha-linolenic acid,1
+862,,,,chromium,5
+863,,,,iodine,5
+864,,,,molybdenum,5
+865,,,,chloride,1
+866,,,,boron,4
+867,,,,nickel,4
+868,,,,vanadium,4
+869,,,,biotin,5
